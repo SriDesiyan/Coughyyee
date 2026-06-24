@@ -1,1 +1,16 @@
 # Coughyyee
+# 💫 About Me:
+🚀 I’m currently working on<br>AI/ML projects focused on cybersecurity, computer vision, and real-world automation, including privacy-preserving systems, fraud detection, and intelligent investigation tools. I also keep building full-stack applications that combine machine learning with practical user interfaces.<br><br>🤝 I’m looking to collaborate on<br>Projects in Artificial Intelligence, Machine Learning, Computer Vision, Generative AI, Cybersecurity, IoT, and hackathon ideas that solve real-world problems. I am especially interested in team-based innovation challenges where research, coding, and product thinking come together.<br><br>🧠 I’m looking for help with<br>Improving my advanced ML fundamentals, model optimization, system design, scalable deployment, and building stronger production-ready AI systems. I also like learning better ways to structure projects for industry and hackathon use.<br><br>🌱 I’m currently learning<br>Deep learning, agentic AI systems, RAG-based applications, cloud deployment, MLOps, and stronger problem-solving for competitive coding and interviews. I am also continuing my Japanese learning journey with JLPT N4.<br><br>💬 Ask me about<br>Hackathons, AI/ML, computer vision, secure communication systems, full-stack development, competitive programming, and how to turn ideas into real working products. I can also talk about my experience building projects for cybercrime investigation, healthcare, and smart farming.<br><br>⚡ Fun fact<br>I love building under pressure and have turned hackathon ideas into award-winning projects. I enjoy solving complex problems, learning fast, and working on ideas that have both technical depth and social impact.<br><br>A shorter polished version for a profile box:<br><br>I build AI and full-stack solutions with a focus on cybersecurity, computer vision, and real-world problem solving. I enjoy hackathons, competitive programming, and turning ideas into practical products. Currently exploring generative AI, agentic systems, RAG, MLOps, and scalable deployment.<br><br>If you want, I can turn this into a more impressive LinkedIn-style bio or a super professional portfolio About Me.
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sridesiyanv_03863) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sri-desiyan-v-スリ・デシヤン-66821830a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SriDesiyan22874) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sridesiyanv.aids2024@citchennai.net) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Coughyyee&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Coughyyee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Coughyyee&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
